@@ -1,0 +1,68 @@
+h1{
+    background-color: royalblue;
+    text-align: center;
+    border-radius: 50px;
+    border: 2px solid red;
+}
+i{
+    color: red;
+}
+h3{
+    color: green;
+}
+h2{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.gh{
+    text-align: center;
+    background-color:yellow;
+    color: green;
+}
+.abc{
+    width:99%;
+}
+.haha{
+    color: green;
+}
+button{
+    width: 20%;
+    background-color: lightblue;
+    border: 0px solid;
+    color: white ;
+}
+table,td,tr{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.green{
+    background-color: green;
+    color: white;
+    text-align: center;
+    width:  125px;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 1150px;
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    color: grey;
+    text-align: center;
+}
+.what{
+    background-color: yellow;
+    color: green;
+}
